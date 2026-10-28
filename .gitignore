@@ -1,0 +1,10 @@
+node_modules/
+*.db
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+documento/
